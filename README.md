@@ -1,2 +1,2 @@
 # Genetik-Algoritma-Optimizasyon-
-Rosenbrock Fonksiyonunun maksimum noktalarını bulmaktadırç
+Rosenbrock Fonksiyonunun maksimum noktalarını bulmaktadır
